@@ -2,14 +2,6 @@
 
 ###
 
-<h3 align="left"></h3>
-
-###
-
-<h3 align="left"></h3>
-
-###
-
 <h2 align="left">👩‍💻About Me</h2>
 
 ###
