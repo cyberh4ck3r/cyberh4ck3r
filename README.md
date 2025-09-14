@@ -37,6 +37,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/cyberh4ck3r/cyberh4ck3r/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/cyberh4ck3r/cyberh4ck3r/blob/output/github-snake-dark.svg)
 
 ###
