@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🌍 I'm from Germany<br> - 📚 I'm currently learning **Full Stack Development**<br>- 🚀 I'm currently working on **Nyxify** (a Discord Bot)<br>- ✉️ You can contact me on Discord: **cyberh4ck3r**</p>
+<p align="left">- 🌍 I'm from Germany<br> - 📚 I'm currently learning **Full Stack Development**<br> - 🚀 I'm currently working on **Nyxify** (a Discord Bot)<br> - ✉️ You can contact me on Discord: **cyberh4ck3r**</p>
 
 ###
 
