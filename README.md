@@ -2,6 +2,10 @@
 
 ###
 
+<h3 align="left">👩‍💻About Me</h3>
+
+###
+
 <p align="left">• 🌍 I'm from Germany<br> • 📚 I'm currently learning <b>Full Stack Development</b><br> • 🚀 I'm currently working on <b>Nyxify</b> (a Discord Bot)<br> • ✉️ You can contact me on Discord: <b>cyberh4ck3r</b></p>
 
 ###
