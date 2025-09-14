@@ -2,15 +2,15 @@
 
 ###
 
-<h3 align="left">👩‍💻About Me</h3>
+<h2 align="left">👩‍💻About Me</h2>
 
 ###
 
-<p align="left">- 🌍 I'm from Germany<br> - 📚 I'm currently learning **Full Stack Development**<br> - 🚀 I'm currently working on **Nyxify** (a Discord Bot)<br> - ✉️ You can contact me on Discord: **cyberh4ck3r**</p>
+<p align="left">• 🌍 I'm from Germany<br> • 📚 I'm currently learning **Full Stack Development**<br> • 🚀 I'm currently working on **Nyxify** (a Discord Bot)<br> • ✉️ You can contact me on Discord: **cyberh4ck3r**</p>
 
 ###
 
-<h3 align="left">💻 My Skills</h3>
+<h2 align="left">💻 My Skills</h2>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">📊 My Stats</h3>
+<h2 align="left">📊 My Stats</h2>
 
 ###
 
