@@ -6,7 +6,7 @@
 
 <br>
 
-<h3 align="center">🙋 About Me</h3>
+<h3 align="center">About Me</h3>
 
 <p align="center">
   🔨 Currently building <a href="https://flare.best"><strong>Flare</strong></a> – a Discord bot<br>
