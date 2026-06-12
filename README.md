@@ -32,11 +32,13 @@
   💬 Discord: <strong>cyberh4ck3r</strong>
 </p>
 
-#<br>
-#
-#<div>
-#  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=8ba2c2" />
-#</div>
+<!--  
+<br>
+ 
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=8ba2c2" />
+</div>
+-->
 
 <!--
 **cyberh4ck3r/cyberh4ck3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
