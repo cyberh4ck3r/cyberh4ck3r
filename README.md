@@ -1,74 +1,51 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=80&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=8ba2c2"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=8ba2c2" />
 </div>
-
-###
 
 <h1 align="center">Hey! I'm Ben, a passionate developer 👋</h1>
 
-###
+<br>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=10&section=header&reversal=false&fontSize=20&fontColor=FFFFFF&fontAlign=20&fontAlignY=20&stroke=-&descSize=20&descAlign=20&descAlignY=20&theme=cobalt"  />
-</div>
+<h3 align="center">🙋 About Me</h3>
 
-###
+<p align="center">
+  🌍 Based in Germany<br>
+  🔨 Currently building <a href="https://flare.best"><strong>Flare</strong></a> – a Discord bot<br>
+  💡 I love turning ideas into real products<br>
+  🐍 Mainly coding in Python, Next.js & TypeScript
+</p>
 
-<h3 align="center">About Me</h3>
+<br>
 
-###
-
-<p align="left">- Based in LA<br>- 🔨 Currently building **Flare** – a Discord bot @ [flare.best](https://flare.best)<br>- 💡 I love turning ideas into real products<br>- 🐍 Mainly coding in Python, Next.js & TypeScript</p>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header&reversal=false&fontSize=20&fontColor=FFFFFF&fontAlign=20&fontAlignY=20&stroke=-&descSize=20&descAlign=20&descAlignY=20&theme=cobalt"  />
-</div>
-
-###
-
-<h3 align="center">Tech Stack</h3>
-
-###
+<h3 align="center">🛠️ Tech Stack</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql" />
 </div>
 
-###
+<br>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header&reversal=false&fontSize=20&fontColor=FFFFFF&fontAlign=20&fontAlignY=20&stroke=-&descSize=20&descAlign=20&descAlignY=20&theme=cobalt"  />
-</div>
+<h3 align="center">📬 Contact</h3>
 
-###
+<p align="center">
+  <a href="mailto:contact@flare.best">📧 contact@flare.best</a><br>
+  <a href="mailto:ben@mynxexstudios.com">📧 ben@mynxexstudios.com</a><br>
+  💬 Discord: <strong>cyberh4ck3r</strong>
+</p>
 
-<h3 align="center">Contact</h3>
-
-###
-
-<p align="left">- 📧 [contact@flare.best](mailto:contact@flare.best)<br>- 📧 [ben@mynxexstudios.com](mailto:ben@mynxexstudios.com)<br>- 💬 Discord: **cyberh4ck3r**</p>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header&reversal=false&fontSize=20&fontColor=FFFFFF&fontAlign=20&fontAlignY=20&stroke=-&descSize=20&descAlign=20&descAlignY=20&theme=cobalt"  />
-</div>
-
-###
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyberh4ck3r/cyberh4ck3r/pacman-output/pacman-contribution-graph-dark.svg">
@@ -76,13 +53,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cyberh4ck3r/cyberh4ck3r/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=80&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=8ba2c2"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=8ba2c2" />
 </div>
-
-###
 
 <!--
 **cyberh4ck3r/cyberh4ck3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
