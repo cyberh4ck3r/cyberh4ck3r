@@ -18,7 +18,7 @@
 <br>
 
 <h3 align="center">Tech Stack</h3>
-###
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
@@ -34,7 +34,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
 </div>
-###
+
 
 <br>
 
