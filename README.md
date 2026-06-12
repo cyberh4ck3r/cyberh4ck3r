@@ -4,15 +4,7 @@
 
 <h1 align="center">Hey! I'm Ben, a passionate developer <img src="https://raw.githubusercontent.com/ginny100/ginny100/main/assets/waving-hand.webp" width="2%"> </h1>
 
-<br>
-
-<h3 align="center">About Me</h3>
-
-<p align="center">
-  🔨 Currently building <a href="https://flare.best"><strong>Flare</strong></a> – a Discord bot<br>
-  💡 I love turning ideas into real products<br>
-  🐍 Mainly coding in Python, Next.js & TypeScript
-</p>
+<p align="center">I started with Python in 2023, built my first bots and never looked back — since then it's been going uphill. Right now I'm working on one of my biggest projects: <a href="https://flare.best">Flare</a>, a feature-rich Discord bot with a full dashboard.</p>
 
 <br>
 
