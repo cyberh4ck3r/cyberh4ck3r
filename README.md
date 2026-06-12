@@ -4,7 +4,7 @@
 
 <h1 align="center">Hey! I'm Ben, a passionate developer <img src="https://raw.githubusercontent.com/ginny100/ginny100/main/assets/waving-hand.webp" width="2%"> </h1>
 
-<p align="center">I started with Python in 2023, built my first bots and never looked back — since then it's been going uphill. Right now I'm working on one of my biggest projects: <a href="https://flare.best">Flare</a>, a feature-rich Discord bot with a full dashboard.</p>
+<p align="center">I started with Python in 2023, built my first bots and never looked back. Since then it has been going uphill. Right now I'm working on one of my biggest projects: <a href="https://flare.best">Flare</a>, a feature-rich Discord bot with a full dashboard.</p>
 
 <br>
 
