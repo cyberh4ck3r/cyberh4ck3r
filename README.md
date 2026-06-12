@@ -48,12 +48,6 @@
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyberh4ck3r/cyberh4ck3r/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyberh4ck3r/cyberh4ck3r/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cyberh4ck3r/cyberh4ck3r/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=8ba2c2" />
 </div>
