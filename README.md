@@ -24,7 +24,7 @@
 
 <br>
 
-<h3 align="center">📬 Contact</h3>
+<h3 align="center">Contact</h3>
 
 <p align="center">
   <a href="mailto:contact@flare.best">📧 contact@flare.best</a><br>
