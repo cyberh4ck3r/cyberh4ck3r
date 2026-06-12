@@ -5,7 +5,7 @@
 <h1 align="center">Hey! I'm Ben, a passionate developer <img src="https://raw.githubusercontent.com/ginny100/ginny100/main/assets/waving-hand.webp" width="2%"> </h1>
 
 <p align="center">
-  I started with Python in 2023, built my first bots and never looked back. Since then it has been going uphill.<br><br>
+  In early 2023 I started learning Python and built my first Discord bot. It was fun, I learned SQLite, kept adding features, but the code got messy and I eventually stopped. After that I got into web development with HTML, CSS and JS, which was great, but I wanted more. So I moved on to Vite, Node.js and React. Now I'm building with Next.js, React, Tailwind CSS and TypeScript and I'm excited to see what comes next.<br><br>
   <strong>I'm currently working on:</strong><br>
   <a href="https://flare.best"><strong>Flare</strong></a> - a feature-rich Discord bot with a full dashboard<br>
   <a href="https://mynexstudios.com"><strong>Mynex Studios</strong></a> - open source tools for beginners, free & community-driven
