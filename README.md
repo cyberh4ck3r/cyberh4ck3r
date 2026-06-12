@@ -9,7 +9,6 @@
 <h3 align="center">🙋 About Me</h3>
 
 <p align="center">
-  🌍 Based in Germany<br>
   🔨 Currently building <a href="https://flare.best"><strong>Flare</strong></a> – a Discord bot<br>
   💡 I love turning ideas into real products<br>
   🐍 Mainly coding in Python, Next.js & TypeScript
@@ -33,11 +32,11 @@
   💬 Discord: <strong>cyberh4ck3r</strong>
 </p>
 
-<br>
-
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=8ba2c2" />
-</div>
+#<br>
+#
+#<div>
+#  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=8ba2c2" />
+#</div>
 
 <!--
 **cyberh4ck3r/cyberh4ck3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
