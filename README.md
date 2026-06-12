@@ -6,9 +6,9 @@
 
 <p align="center">
   I started with Python in 2023, built my first bots and never looked back. Since then it has been going uphill.<br><br>
-  I'm currently working on:<br>
-  <a href="https://flare.best"><strong>Flare</strong></a> — a feature-rich Discord bot with a full dashboard<br>
-  <a href="https://mynexstudios.com"><strong>Mynex Studios</strong></a> — open source tools for beginners, free & community-driven
+  <strong>I'm currently working on:</strong><br>
+  <a href="https://flare.best"><strong>Flare</strong></a> - a feature-rich Discord bot with a full dashboard<br>
+  <a href="https://mynexstudios.com"><strong>Mynex Studios</strong></a> - open source tools for beginners, free & community-driven
 </p>
 
 <br>
