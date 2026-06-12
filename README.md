@@ -20,21 +20,8 @@
 <h3 align="center">Tech Stack</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=py,nextjs,react,ts,tailwind,nodejs,mysql" height="60" />
 </div>
-
 
 <br>
 
