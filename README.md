@@ -16,7 +16,7 @@
 <h3 align="center">Tech Stack</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,nextjs,react,ts,tailwind,nodejs,mysql" height="60" />
+  <img src="https://skillicons.dev/icons?i=py,nextjs,vite,react,ts,tailwind,nodejs,mysql" height="60" />
 </div>
 
 <br>
