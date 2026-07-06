@@ -1,5 +1,5 @@
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=090a09" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=8ba2c2" />
 </div>
 
 <h1 align="center">Hey! I'm Ben, a passionate developer <img src="https://raw.githubusercontent.com/ginny100/ginny100/main/assets/waving-hand.webp" width="2%"> </h1>
