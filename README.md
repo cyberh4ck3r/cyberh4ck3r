@@ -30,9 +30,6 @@
   <a href="mailto:contact@flare.best">
     <img src="https://img.shields.io/badge/contact@flare.best-8ba2c2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:ben@mynxexstudios.com">
-    <img src="https://img.shields.io/badge/ben@mynxexstudios.com-8ba2c2?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </div>
 
 <!--  
